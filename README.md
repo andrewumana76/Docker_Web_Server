@@ -47,3 +47,6 @@ This repository contains all the necessary files to set up and run an NGINX web 
 ## NGINX Webserver with Basic HTML and CSS
 
 ![alt text](https://github.com/andrewumana76/Docker_Web_Server/blob/main/Pictures/Web_Page.png)
+
+
+Functionality will be added for HTTPS and more customization on the website. 
