@@ -44,6 +44,9 @@ This repository contains all the necessary files to set up and run an NGINX web 
 4. **Access the Web Server**:
     Open your web browser and navigate to `http://localhost:80` to see your running web server.
 
+   Port forwarding your router and modifying the Docker_Files/nginx.conf server_name <Your_Public_IP_Address> will be needed so the website can be accessed from outside your local LAN
+   - If this is accomplished , disconnect from your LAN to reach the website by http://<Your_Public_IP_Address>:80
+
 ## NGINX Webserver with Basic HTML and CSS
 
 ![alt text](https://github.com/andrewumana76/Docker_Web_Server/blob/main/Pictures/Web_Page.png)
