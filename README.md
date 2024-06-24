@@ -42,6 +42,8 @@ This repository contains all the necessary files to set up and run an NGINX web 
     ```
 
 4. **Access the Web Server**:
-    Open your web browser and navigate to `http://localhost` to see your running web server.
+    Open your web browser and navigate to `http://localhost:80` to see your running web server.
 
-## Contributions and Feedback
+## NGINX Webserver with Basic HTML and CSS
+
+![alt text](https://github.com/andrewumana76/Docker_Web_Server/blob/main/pictures/Web_Page.png)
